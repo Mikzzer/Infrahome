@@ -1,5 +1,5 @@
 ## Dodawanieinstalacja dockera  i dodanie wpisow do dnsow!##
-- hosts: nodes
+- hosts: all
   become: yes
   tasks:
   - name: Instlacja dockera
