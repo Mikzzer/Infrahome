@@ -1,0 +1,5 @@
+127.0.2.1 control control
+172.16.1.50 control
+172.16.1.51 node1
+172.16.1.52 node2
+172.16.1.53 node3
